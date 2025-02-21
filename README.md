@@ -1,1 +1,2 @@
-# Boilerplate-SpringBoot-React-Mysql
+# Tech-Stack
+Boilerplate-SpringBoot-React-Mysql
